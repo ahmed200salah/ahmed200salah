@@ -12,7 +12,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed200salah&show_icons=true&locale=en&layout=compact" alt="ahmed200salah" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed200salah&show_icons=true&locale=en" alt="ahmed200salah" margin = 20px/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed200salah&show_icons=true&locale=en" alt="ahmed200salah"/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed200salah&" alt="ahmed200salah" /></p>
 
